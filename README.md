@@ -8,3 +8,12 @@ This is my attempt at simplifying this task. I am no Cormen or Karumanchi or eve
 Well, not quite the preface any algorithms book would have. Nevertheless, works!
 
 Let the journey begin.
+
+---
+
+Book:<br/>
+[http://algobook.dwarak.in](http://algobook.dwarak.in)
+
+Follow the author here: <br/>
+[@dtsdwarak](https://twitter.com/dtsdwarak "Twitter") <br/>
+[Github Profile](https://github.com/dtsdwarak "Github Profile")
